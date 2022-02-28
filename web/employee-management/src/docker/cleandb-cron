@@ -1,0 +1,2 @@
+*/15 * * * * root /root/cleandb.sh
+# Blank line

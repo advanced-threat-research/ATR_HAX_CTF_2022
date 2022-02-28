@@ -1,0 +1,1 @@
+This directory will host all of the challenge files that will be hosted on CTFd. Please keep this directory clean of any source code or files that participents should not have access to.

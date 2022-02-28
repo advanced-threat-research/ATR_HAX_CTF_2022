@@ -1,0 +1,303 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.f32.fit32"
+4    android:versionCode="5"
+5    android:versionName="0.5" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="9"
+8-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="26" />
+9-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+11-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:5:5-81
+11-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:5:22-78
+12
+13    <application
+13-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:7:5-156:19
+14        android:allowBackup="true"
+14-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:8:9-35
+15        android:fullBackupContent="@xml/full_backup_content"
+15-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:9:9-61
+16        android:icon="@mipmap/ic_launcher"
+16-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:10:9-43
+17        android:label="@string/app_name"
+17-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:11:9-41
+18        android:supportsRtl="true"
+18-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:12:9-35
+19        android:theme="@style/AppTheme" >
+19-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:13:9-40
+20        <activity
+20-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:14:9-25:20
+21            android:name="com.f32.fit32.HomeActivity"
+21-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:15:13-54
+22            android:label="@string/app_name"
+22-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:16:13-45
+23            android:screenOrientation="portrait"
+23-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:17:13-49
+24            android:theme="@style/AppTheme.Splash"
+24-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:19:13-51
+25            android:windowSoftInputMode="stateAlwaysHidden" >
+25-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:18:13-60
+26            <intent-filter>
+26-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:20:13-24:29
+27                <action android:name="android.intent.action.MAIN" />
+27-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:21:17-69
+27-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:21:25-66
+28
+29                <category android:name="android.intent.category.LAUNCHER" />
+29-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:23:17-77
+29-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:23:27-74
+30            </intent-filter>
+31        </activity>
+32        <activity
+32-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:26:9-35:20
+33            android:name="com.f32.fit32.ProgramsActivity"
+33-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:27:13-58
+34            android:label="@string/title_activity_programs"
+34-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:28:13-60
+35            android:screenOrientation="portrait"
+35-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:29:13-49
+36            android:theme="@style/AppTheme.NoActionBar"
+36-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:31:13-56
+37            android:windowSoftInputMode="stateAlwaysHidden" >
+37-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:30:13-60
+38            <meta-data
+38-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:32:13-34:62
+39                android:name="android.support.PARENT_ACTIVITY"
+39-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:33:17-63
+40                android:value="com.f32.fit32.HomeActivity" />
+40-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:34:17-59
+41        </activity>
+42        <activity
+42-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:36:9-45:20
+43            android:name="com.f32.fit32.WorkoutsActivity"
+43-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:37:13-58
+44            android:label="@string/title_activity_workouts"
+44-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:38:13-60
+45            android:screenOrientation="portrait"
+45-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:39:13-49
+46            android:theme="@style/AppTheme.NoActionBar"
+46-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:41:13-56
+47            android:windowSoftInputMode="stateAlwaysHidden" >
+47-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:40:13-60
+48            <meta-data
+48-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:32:13-34:62
+49                android:name="android.support.PARENT_ACTIVITY"
+49-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:33:17-63
+50                android:value="com.f32.fit32.ProgramsActivity" />
+50-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:34:17-59
+51        </activity>
+52        <activity
+52-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:46:9-55:20
+53            android:name="com.f32.fit32.ExercisesActivity"
+53-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:47:13-59
+54            android:label="@string/title_activity_exercises"
+54-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:48:13-61
+55            android:screenOrientation="portrait"
+55-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:49:13-49
+56            android:theme="@style/AppTheme.NoActionBar"
+56-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:51:13-56
+57            android:windowSoftInputMode="stateAlwaysHidden" >
+57-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:50:13-60
+58            <meta-data
+58-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:32:13-34:62
+59                android:name="android.support.PARENT_ACTIVITY"
+59-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:33:17-63
+60                android:value="com.f32.fit32.WorkoutsActivity" />
+60-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:34:17-59
+61        </activity>
+62        <activity
+62-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:56:9-65:20
+63            android:name="com.f32.fit32.ExerciseActivity"
+63-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:57:13-58
+64            android:label="@string/title_activity_exercise"
+64-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:58:13-60
+65            android:screenOrientation="portrait"
+65-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:59:13-49
+66            android:theme="@style/AppTheme.NoActionBar"
+66-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:61:13-56
+67            android:windowSoftInputMode="stateAlwaysHidden" >
+67-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:60:13-60
+68            <meta-data
+68-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:32:13-34:62
+69                android:name="android.support.PARENT_ACTIVITY"
+69-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:33:17-63
+70                android:value="com.f32.fit32.ExercisesActivity" />
+70-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:34:17-59
+71        </activity>
+72        <activity
+72-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:66:9-75:20
+73            android:name="com.f32.fit32.WorkoutActivity"
+73-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:67:13-57
+74            android:label="@string/title_activity_workout"
+74-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:68:13-59
+75            android:screenOrientation="portrait"
+75-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:69:13-49
+76            android:theme="@style/AppTheme.NoActionBar"
+76-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:71:13-56
+77            android:windowSoftInputMode="stateAlwaysHidden" >
+77-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:70:13-60
+78            <meta-data
+78-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:32:13-34:62
+79                android:name="android.support.PARENT_ACTIVITY"
+79-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:33:17-63
+80                android:value="com.f32.fit32.WorkoutsActivity" />
+80-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:34:17-59
+81        </activity>
+82        <activity
+82-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:76:9-85:20
+83            android:name="com.f32.fit32.HiitSettingsActivity"
+83-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:77:13-62
+84            android:label="@string/title_activity_hiit"
+84-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:78:13-56
+85            android:screenOrientation="portrait"
+85-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:79:13-49
+86            android:theme="@style/AppTheme.NoActionBar"
+86-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:81:13-56
+87            android:windowSoftInputMode="stateAlwaysHidden" >
+87-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:80:13-60
+88            <meta-data
+88-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:32:13-34:62
+89                android:name="android.support.PARENT_ACTIVITY"
+89-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:33:17-63
+90                android:value="com.f32.fit32.HomeActivity" />
+90-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:34:17-59
+91        </activity>
+92        <activity
+92-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:86:9-95:20
+93            android:name="com.f32.fit32.HiitTimerActivity"
+93-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:87:13-59
+94            android:label="@string/title_activity_hiit_timer"
+94-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:88:13-62
+95            android:screenOrientation="portrait"
+95-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:89:13-49
+96            android:theme="@style/AppTheme.NoActionBar"
+96-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:91:13-56
+97            android:windowSoftInputMode="stateAlwaysHidden" >
+97-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:90:13-60
+98            <meta-data
+98-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:32:13-34:62
+99                android:name="android.support.PARENT_ACTIVITY"
+99-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:33:17-63
+100                android:value="com.f32.fit32.HiitSettingsActivity" />
+100-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:34:17-59
+101        </activity>
+102        <activity
+102-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:96:9-105:20
+103            android:name="com.f32.fit32.MeasurementsActivity"
+103-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:97:13-62
+104            android:label="@string/title_activity_measurements"
+104-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:98:13-64
+105            android:screenOrientation="portrait"
+105-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:99:13-49
+106            android:theme="@style/AppTheme.NoActionBar"
+106-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:101:13-56
+107            android:windowSoftInputMode="stateAlwaysHidden" >
+107-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:100:13-60
+108            <meta-data
+108-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:32:13-34:62
+109                android:name="android.support.PARENT_ACTIVITY"
+109-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:33:17-63
+110                android:value="com.f32.fit32.HomeActivity" />
+110-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:34:17-59
+111        </activity>
+112        <activity
+112-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:106:9-115:20
+113            android:name="com.f32.fit32.MeasurementActivity"
+113-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:107:13-61
+114            android:label="@string/title_activity_measurement"
+114-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:108:13-63
+115            android:screenOrientation="portrait"
+115-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:109:13-49
+116            android:theme="@style/AppTheme.NoActionBar"
+116-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:111:13-56
+117            android:windowSoftInputMode="stateAlwaysHidden" >
+117-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:110:13-60
+118            <meta-data
+118-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:32:13-34:62
+119                android:name="android.support.PARENT_ACTIVITY"
+119-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:33:17-63
+120                android:value="com.f32.fit32.MeasurementsActivity" />
+120-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:34:17-59
+121        </activity>
+122        <activity
+122-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:116:9-125:20
+123            android:name="com.f32.fit32.HelpActivity"
+123-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:117:13-54
+124            android:label="@string/title_activity_help"
+124-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:118:13-56
+125            android:screenOrientation="portrait"
+125-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:119:13-49
+126            android:theme="@style/AppTheme.NoActionBar"
+126-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:121:13-56
+127            android:windowSoftInputMode="stateAlwaysHidden" >
+127-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:120:13-60
+128            <meta-data
+128-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:32:13-34:62
+129                android:name="android.support.PARENT_ACTIVITY"
+129-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:33:17-63
+130                android:value="com.f32.fit32.HomeActivity" />
+130-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:34:17-59
+131        </activity>
+132        <activity
+132-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:126:9-135:20
+133            android:name="com.f32.fit32.SettingsActivity"
+133-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:127:13-58
+134            android:label="@string/title_activity_settings"
+134-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:128:13-60
+135            android:screenOrientation="portrait"
+135-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:129:13-49
+136            android:theme="@style/AppTheme.NoActionBar"
+136-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:131:13-56
+137            android:windowSoftInputMode="stateAlwaysHidden" >
+137-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:130:13-60
+138            <meta-data
+138-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:32:13-34:62
+139                android:name="android.support.PARENT_ACTIVITY"
+139-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:33:17-63
+140                android:value="com.f32.fit32.HomeActivity" />
+140-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:34:17-59
+141        </activity>
+142        <activity
+142-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:136:9-145:20
+143            android:name="com.f32.fit32.HistoryActivity"
+143-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:137:13-57
+144            android:label="@string/title_activity_history"
+144-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:138:13-59
+145            android:screenOrientation="portrait"
+145-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:139:13-49
+146            android:theme="@style/AppTheme.NoActionBar"
+146-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:141:13-56
+147            android:windowSoftInputMode="stateAlwaysHidden" >
+147-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:140:13-60
+148            <meta-data
+148-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:32:13-34:62
+149                android:name="android.support.PARENT_ACTIVITY"
+149-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:33:17-63
+150                android:value="com.f32.fit32.WorkoutsActivity" />
+150-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:34:17-59
+151        </activity>
+152        <activity
+152-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:146:9-155:20
+153            android:name="com.f32.fit32.HistActivity"
+153-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:147:13-54
+154            android:label="@string/title_activity_hist"
+154-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:148:13-56
+155            android:screenOrientation="portrait"
+155-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:149:13-49
+156            android:theme="@style/AppTheme.NoActionBar"
+156-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:151:13-56
+157            android:windowSoftInputMode="stateAlwaysHidden" >
+157-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:150:13-60
+158            <meta-data
+158-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:32:13-34:62
+159                android:name="android.support.PARENT_ACTIVITY"
+159-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:33:17-63
+160                android:value="com.f32.fit32.HistoryActivity" />
+160-->D:\Documents\work_files\Fit32\app\src\main\AndroidManifest.xml:34:17-59
+161        </activity>
+162    </application>
+163
+164</manifest>

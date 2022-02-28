@@ -1,0 +1,12 @@
+server {
+listen 127.0.0.1:80;
+server_name h6lblddawb5p7dxqijifj5gmazzml3rkgpfno2pnyfnw6ymg32pbiuad.onion;
+
+error_log /var/log/nginx/hidden_service.error.log;
+access_log off;
+
+location / {
+	root /var/www/hidden_service/;
+	index index.html;
+    }
+}

@@ -1,0 +1,5 @@
+If you would like to make this shell a little more user friendly with things like tab completion, Ctrl-C and ESC characters.
+
+Use socat to connect to the challenge from your host. (Linux, macos, or WSL only)
+
+socat file:`tty`,raw,echo=0 tcp:0.cloud.chals.io:<PORT NUMBER>

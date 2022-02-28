@@ -1,0 +1,1 @@
+This directory will host all of the  support files necessary for the documentation in this repo. This includes images, text files, any additional readme, etc.

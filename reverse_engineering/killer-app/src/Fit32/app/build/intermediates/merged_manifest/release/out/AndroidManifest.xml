@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.f32.fit32"
+    android:versionCode="5"
+    android:versionName="0.5" >
+
+    <uses-sdk
+        android:minSdkVersion="9"
+        android:targetSdkVersion="26" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:fullBackupContent="@xml/full_backup_content"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.f32.fit32.HomeActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.Splash"
+            android:windowSoftInputMode="stateAlwaysHidden" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.f32.fit32.ProgramsActivity"
+            android:label="@string/title_activity_programs"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="stateAlwaysHidden" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.f32.fit32.HomeActivity" />
+        </activity>
+        <activity
+            android:name="com.f32.fit32.WorkoutsActivity"
+            android:label="@string/title_activity_workouts"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="stateAlwaysHidden" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.f32.fit32.ProgramsActivity" />
+        </activity>
+        <activity
+            android:name="com.f32.fit32.ExercisesActivity"
+            android:label="@string/title_activity_exercises"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="stateAlwaysHidden" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.f32.fit32.WorkoutsActivity" />
+        </activity>
+        <activity
+            android:name="com.f32.fit32.ExerciseActivity"
+            android:label="@string/title_activity_exercise"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="stateAlwaysHidden" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.f32.fit32.ExercisesActivity" />
+        </activity>
+        <activity
+            android:name="com.f32.fit32.WorkoutActivity"
+            android:label="@string/title_activity_workout"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="stateAlwaysHidden" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.f32.fit32.WorkoutsActivity" />
+        </activity>
+        <activity
+            android:name="com.f32.fit32.HiitSettingsActivity"
+            android:label="@string/title_activity_hiit"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="stateAlwaysHidden" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.f32.fit32.HomeActivity" />
+        </activity>
+        <activity
+            android:name="com.f32.fit32.HiitTimerActivity"
+            android:label="@string/title_activity_hiit_timer"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="stateAlwaysHidden" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.f32.fit32.HiitSettingsActivity" />
+        </activity>
+        <activity
+            android:name="com.f32.fit32.MeasurementsActivity"
+            android:label="@string/title_activity_measurements"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="stateAlwaysHidden" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.f32.fit32.HomeActivity" />
+        </activity>
+        <activity
+            android:name="com.f32.fit32.MeasurementActivity"
+            android:label="@string/title_activity_measurement"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="stateAlwaysHidden" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.f32.fit32.MeasurementsActivity" />
+        </activity>
+        <activity
+            android:name="com.f32.fit32.HelpActivity"
+            android:label="@string/title_activity_help"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="stateAlwaysHidden" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.f32.fit32.HomeActivity" />
+        </activity>
+        <activity
+            android:name="com.f32.fit32.SettingsActivity"
+            android:label="@string/title_activity_settings"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="stateAlwaysHidden" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.f32.fit32.HomeActivity" />
+        </activity>
+        <activity
+            android:name="com.f32.fit32.HistoryActivity"
+            android:label="@string/title_activity_history"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="stateAlwaysHidden" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.f32.fit32.WorkoutsActivity" />
+        </activity>
+        <activity
+            android:name="com.f32.fit32.HistActivity"
+            android:label="@string/title_activity_hist"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="stateAlwaysHidden" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.f32.fit32.HistoryActivity" />
+        </activity>
+    </application>
+
+</manifest>

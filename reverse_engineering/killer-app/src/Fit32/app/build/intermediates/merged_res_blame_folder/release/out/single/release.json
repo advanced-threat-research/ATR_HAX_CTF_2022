@@ -1,0 +1,1498 @@
+[
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_btn_radio_material.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_design_navigation_item_separator.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\2d68633993c7229738b7f9206a622005\\design-23.1.1\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_programs.xml.flat",
+        "source": "D:\\Documents\\work_files\\Fit32\\app\\src\\main\\res\\layout\\activity_programs.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_btn_rating_star_on_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-mdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xxhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\anim_slide_out_left.xml.flat",
+        "source": "D:\\Documents\\work_files\\Fit32\\app\\src\\main\\res\\anim\\slide_out_left.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_ic_go_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xxhdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xxxhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-mdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\color_switch_thumb_material_light.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_history.xml.flat",
+        "source": "D:\\Documents\\work_files\\Fit32\\app\\src\\main\\res\\layout\\activity_history.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Documents\\work_files\\Fit32\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xhdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-mdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_select_dialog_singlechoice_material.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_input_play.png.flat",
+        "source": "D:\\Documents\\work_files\\Fit32\\app\\src\\main\\res\\drawable-mdpi\\ic_input_play.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xxxhdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\color_abc_search_url_text.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xhdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_measurements.xml.flat",
+        "source": "D:\\Documents\\work_files\\Fit32\\app\\src\\main\\res\\layout\\activity_measurements.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_settings.xml.flat",
+        "source": "D:\\Documents\\work_files\\Fit32\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-hdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-mdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-ldrtl-mdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xhdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_content_workout.xml.flat",
+        "source": "D:\\Documents\\work_files\\Fit32\\app\\src\\main\\res\\layout\\content_workout.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xxhdpi\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_ic_go_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-hdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_help.xml.flat",
+        "source": "D:\\Documents\\work_files\\Fit32\\app\\src\\main\\res\\layout\\activity_help.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xhdpi\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-mdpi\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xhdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-mdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_hiit_timer.xml.flat",
+        "source": "D:\\Documents\\work_files\\Fit32\\app\\src\\main\\res\\layout\\activity_hiit_timer.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xxxhdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xhdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xxhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xxhdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_seekbar_thumb_material.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-nodpi_ic_splash.png.flat",
+        "source": "D:\\Documents\\work_files\\Fit32\\app\\src\\main\\res\\drawable-nodpi\\ic_splash.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_big_media_narrow.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_btn_check_material.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xxxhdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-mdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xxhdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_seekbar_track_material.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable_splash.xml.flat",
+        "source": "D:\\Documents\\work_files\\Fit32\\app\\src\\main\\res\\drawable\\splash.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_design_layout_tab_text.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\2d68633993c7229738b7f9206a622005\\design-23.1.1\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_input_add.png.flat",
+        "source": "D:\\Documents\\work_files\\Fit32\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_input_add.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\color_abc_primary_text_material_dark.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\anim_abc_slide_in_top.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_exercise.xml.flat",
+        "source": "D:\\Documents\\work_files\\Fit32\\app\\src\\main\\res\\layout\\activity_exercise.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xxhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-ldrtl-xxhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-mdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_message_play.png.flat",
+        "source": "D:\\Documents\\work_files\\Fit32\\app\\src\\main\\res\\drawable-mdpi\\ic_message_play.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-hdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-hdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_media_cancel_action.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-hdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xxhdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xxhdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xxhdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-ldrtl-xhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-hdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-ldrtl-hdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xxxhdpi\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-mdpi\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_message_play.png.flat",
+        "source": "D:\\Documents\\work_files\\Fit32\\app\\src\\main\\res\\drawable-xhdpi\\ic_message_play.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xhdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-mdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xxxhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-mdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_design_navigation_item.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\2d68633993c7229738b7f9206a622005\\design-23.1.1\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xhdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_action_bar_view_list_nav_layout.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_ic_clear_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-mdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-mdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Documents\\work_files\\Fit32\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-mdpi\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_list_selector_background_transition_holo_dark.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\anim_abc_shrink_fade_out_from_bottom.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_input_play.png.flat",
+        "source": "D:\\Documents\\work_files\\Fit32\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_input_play.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_ic_clear_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-hdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_select_dialog_multichoice_material.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-hdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xhdpi\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-hdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-hdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-hdpi\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xhdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-hdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_content_hiit_timer.xml.flat",
+        "source": "D:\\Documents\\work_files\\Fit32\\app\\src\\main\\res\\layout\\content_hiit_timer.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xxhdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-mdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-v23_abc_control_background_material.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-v23\\abc_control_background_material.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xxhdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_content_home.xml.flat",
+        "source": "D:\\Documents\\work_files\\Fit32\\app\\src\\main\\res\\layout\\content_home.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_content_hist.xml.flat",
+        "source": "D:\\Documents\\work_files\\Fit32\\app\\src\\main\\res\\layout\\content_hist.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xxxhdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xxhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xxxhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-mdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-hdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-mdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-hdpi\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\anim_design_fab_in.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\2d68633993c7229738b7f9206a622005\\design-23.1.1\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_content_exercises.xml.flat",
+        "source": "D:\\Documents\\work_files\\Fit32\\app\\src\\main\\res\\layout\\content_exercises.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xxhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-ldrtl-xxhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\anim_slide_out_right.xml.flat",
+        "source": "D:\\Documents\\work_files\\Fit32\\app\\src\\main\\res\\anim\\slide_out_right.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xxhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\color-v23_abc_color_highlight_material.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xhdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_ic_go_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xhdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-hdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_edit_text_material.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_alert_dialog_material.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-ldrtl-xhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-mdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable_design_fab_background.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\2d68633993c7229738b7f9206a622005\\design-23.1.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xxhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-ldrtl-xxhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-mdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\anim_abc_slide_out_top.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xxhdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_text_cursor_material.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_btn_default_mtrl_shape.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\color_abc_background_cache_hint_selector_material_dark.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\color\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_ic_clear_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xxhdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\anim_abc_grow_fade_in_from_bottom.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_exercises.xml.flat",
+        "source": "D:\\Documents\\work_files\\Fit32\\app\\src\\main\\res\\layout\\activity_exercises.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-hdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\color_abc_primary_text_material_light.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_workouts.xml.flat",
+        "source": "D:\\Documents\\work_files\\Fit32\\app\\src\\main\\res\\layout\\activity_workouts.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-mdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-mdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\anim_abc_popup_enter.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_design_navigation_menu_item.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\2d68633993c7229738b7f9206a622005\\design-23.1.1\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_screen_toolbar.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xhdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-mdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_message_play.png.flat",
+        "source": "D:\\Documents\\work_files\\Fit32\\app\\src\\main\\res\\drawable-xxhdpi\\ic_message_play.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_workout.xml.flat",
+        "source": "D:\\Documents\\work_files\\Fit32\\app\\src\\main\\res\\layout\\activity_workout.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_hiit_settings.xml.flat",
+        "source": "D:\\Documents\\work_files\\Fit32\\app\\src\\main\\res\\layout\\activity_hiit_settings.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_expanded_menu_layout.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_design_layout_snackbar_include.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\2d68633993c7229738b7f9206a622005\\design-23.1.1\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_input_play.png.flat",
+        "source": "D:\\Documents\\work_files\\Fit32\\app\\src\\main\\res\\drawable-xhdpi\\ic_input_play.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xxxhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-ldrtl-xxxhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_media.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-hdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_ic_voice_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xxhdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\anim_design_snackbar_in.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\2d68633993c7229738b7f9206a622005\\design-23.1.1\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_action_bar_title_item.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21_abc_btn_colored_material.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_design_menu_item_action_area.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\2d68633993c7229738b7f9206a622005\\design-23.1.1\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_activity_chooser_view_list_item.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Documents\\work_files\\Fit32\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_list_menu_item_checkbox.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_list_selector_holo_dark.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\anim_abc_slide_in_bottom.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_dialog_material_background_light.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_input_add.png.flat",
+        "source": "D:\\Documents\\work_files\\Fit32\\app\\src\\main\\res\\drawable-mdpi\\ic_input_add.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-mdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_search_view.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_design_navigation_menu.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\2d68633993c7229738b7f9206a622005\\design-23.1.1\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-mdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xxhdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xhdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-mdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_textfield_search_material.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_action_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_cab_background_top_material.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_content_settings.xml.flat",
+        "source": "D:\\Documents\\work_files\\Fit32\\app\\src\\main\\res\\layout\\content_settings.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_ic_go_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-mdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_action_menu_layout.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_input_play.png.flat",
+        "source": "D:\\Documents\\work_files\\Fit32\\app\\src\\main\\res\\drawable-xxhdpi\\ic_input_play.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_screen_simple_overlay_action_mode.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-mdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-hdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_input_add.png.flat",
+        "source": "D:\\Documents\\work_files\\Fit32\\app\\src\\main\\res\\drawable-xxhdpi\\ic_input_add.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xxhdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-hdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-hdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-ldrtl-hdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-hdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-hdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xxhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-ldrtl-xxhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Documents\\work_files\\Fit32\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_input_add.png.flat",
+        "source": "D:\\Documents\\work_files\\Fit32\\app\\src\\main\\res\\drawable-hdpi\\ic_input_add.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-hdpi\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-mdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_action_bar_up_container.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xhdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-hdpi\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_ic_voice_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-mdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xxhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_content_help.xml.flat",
+        "source": "D:\\Documents\\work_files\\Fit32\\app\\src\\main\\res\\layout\\content_help.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xxxhdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_dialog_title_material.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xxxhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_btn_colored_material.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Documents\\work_files\\Fit32\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\color-v11_abc_background_cache_hint_selector_material_dark.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xxxhdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xxhdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-mdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-ldrtl-mdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\anim_slide_in_left.xml.flat",
+        "source": "D:\\Documents\\work_files\\Fit32\\app\\src\\main\\res\\anim\\slide_in_left.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-mdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_switch_thumb_material.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xxhdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xxhdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-hdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-ldrtl-hdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_hist.xml.flat",
+        "source": "D:\\Documents\\work_files\\Fit32\\app\\src\\main\\res\\layout\\activity_hist.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xxhdpi\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-mdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xxhdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_home.xml.flat",
+        "source": "D:\\Documents\\work_files\\Fit32\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-mdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-hdpi\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xxxhdpi\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\anim_abc_popup_exit.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_design_navigation_item_header.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\2d68633993c7229738b7f9206a622005\\design-23.1.1\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xhdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_list_menu_item_icon.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_list_selector_holo_light.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xxhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-mdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-ldrtl-mdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\anim_design_fab_out.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\2d68633993c7229738b7f9206a622005\\design-23.1.1\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\anim_design_snackbar_out.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\2d68633993c7229738b7f9206a622005\\design-23.1.1\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-hdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xxhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_design_layout_snackbar.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\2d68633993c7229738b7f9206a622005\\design-23.1.1\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_btn_rating_star_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xxhdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_ratingbar_full_material.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_message_play.png.flat",
+        "source": "D:\\Documents\\work_files\\Fit32\\app\\src\\main\\res\\drawable-hdpi\\ic_message_play.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_select_dialog_material.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_input_play.png.flat",
+        "source": "D:\\Documents\\work_files\\Fit32\\app\\src\\main\\res\\drawable-hdpi\\ic_input_play.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\color_abc_secondary_text_material_light.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-mdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-ldrtl-mdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xxhdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_content_programs.xml.flat",
+        "source": "D:\\Documents\\work_files\\Fit32\\app\\src\\main\\res\\layout\\content_programs.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-hdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\anim_abc_fade_out.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xxhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21_abc_action_bar_item_background_material.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_ic_voice_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xhdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xhdpi\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xhdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xhdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_content_measurement.xml.flat",
+        "source": "D:\\Documents\\work_files\\Fit32\\app\\src\\main\\res\\layout\\content_measurement.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_ic_voice_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-hdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-mdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp_design_layout_snackbar.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\2d68633993c7229738b7f9206a622005\\design-23.1.1\\res\\layout-sw600dp\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xxxhdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-hdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-ldrtl-hdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xxxhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\anim_abc_fade_in.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_item_background_holo_light.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_screen_content_include.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_screen_simple.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_activity_chooser_view.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_ic_clear_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xhdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_content_workouts.xml.flat",
+        "source": "D:\\Documents\\work_files\\Fit32\\app\\src\\main\\res\\layout\\content_workouts.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_alert_dialog_button_bar_material.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_abc_ic_clear_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xxxhdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_content_history.xml.flat",
+        "source": "D:\\Documents\\work_files\\Fit32\\app\\src\\main\\res\\layout\\content_history.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-hdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-ldrtl-xhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_list_menu_item_radio.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\color-v11_abc_background_cache_hint_selector_material_light.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xxxhdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_btn_rating_star_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xhdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xxhdpi\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xxxhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xxxhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-hdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-mdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_big_media.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\xml_full_backup_content.xml.flat",
+        "source": "D:\\Documents\\work_files\\Fit32\\app\\src\\main\\res\\xml\\full_backup_content.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_popup_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-mdpi\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_measurement.xml.flat",
+        "source": "D:\\Documents\\work_files\\Fit32\\app\\src\\main\\res\\layout\\activity_measurement.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_action_mode_close_item_material.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_cab_background_internal_bg.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xxhdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xxxhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_btn_rating_star_on_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xhdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_media_action.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\anim_slide_in_right.xml.flat",
+        "source": "D:\\Documents\\work_files\\Fit32\\app\\src\\main\\res\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_design_navigation_item_subheader.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\2d68633993c7229738b7f9206a622005\\design-23.1.1\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\color_abc_secondary_text_material_dark.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xhdpi\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_list_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_btn_rating_star_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-hdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-mdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\color_abc_primary_text_disable_only_material_dark.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable_design_snackbar_background.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\2d68633993c7229738b7f9206a622005\\design-23.1.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_btn_rating_star_on_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-hdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-hdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xxhdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\color_switch_thumb_material_dark.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xxhdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-ldrtl-xhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_action_mode_bar.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-mdpi\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_message_play.png.flat",
+        "source": "D:\\Documents\\work_files\\Fit32\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_message_play.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-mdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-mdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_content_hiit_settings.xml.flat",
+        "source": "D:\\Documents\\work_files\\Fit32\\app\\src\\main\\res\\layout\\content_hiit_settings.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-mdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xhdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xxhdpi\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_spinner_textfield_background_material.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_list_selector_background_transition_holo_light.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\color_abc_primary_text_disable_only_material_light.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xxhdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_search_dropdown_item_icons_2line.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_abc_ic_voice_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xxxhdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-mdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\color_abc_background_cache_hint_selector_material_light.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\color\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_support_simple_spinner_dropdown_item.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_item_background_holo_dark.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xhdpi\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_btn_rating_star_on_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xxhdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_btn_borderless_material.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xxhdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xxxhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-ldrtl-xxxhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xxhdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-hdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_lines.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-mdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xxhdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_select_dialog_item_material.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_design_layout_tab_icon.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\2d68633993c7229738b7f9206a622005\\design-23.1.1\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_dialog_material_background_dark.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xxxhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-ldrtl-xxxhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xhdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\anim_abc_slide_out_bottom.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_content_exercise.xml.flat",
+        "source": "D:\\Documents\\work_files\\Fit32\\app\\src\\main\\res\\layout\\content_exercise.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-hdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_input_add.png.flat",
+        "source": "D:\\Documents\\work_files\\Fit32\\app\\src\\main\\res\\drawable-xhdpi\\ic_input_add.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xhdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_tab_indicator_material.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xhdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\layout_content_measurements.xml.flat",
+        "source": "D:\\Documents\\work_files\\Fit32\\app\\src\\main\\res\\layout\\content_measurements.xml"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xxhdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xxxhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-ldrtl-xxxhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xxhdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_btn_rating_star_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-mdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xxhdpi\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-mdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-hdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xxhdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\drawable-xxxhdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    }
+]

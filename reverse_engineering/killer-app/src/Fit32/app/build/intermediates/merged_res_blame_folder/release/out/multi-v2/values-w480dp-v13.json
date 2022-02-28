@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-w480dp-v13\\values-w480dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\values-w480dp\\values-w480dp.xml",
+                    "from": {
+                        "startLines": "4,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "231,470",
+                        "endColumns": "61,71",
+                        "endOffsets": "288,537"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,117",
+                        "endColumns": "61,71",
+                        "endOffsets": "112,184"
+                    }
+                }
+            ]
+        }
+    ]
+}

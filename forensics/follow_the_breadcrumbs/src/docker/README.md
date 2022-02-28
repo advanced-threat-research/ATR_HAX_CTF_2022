@@ -1,0 +1,3 @@
+This directory will be the build root of all the docker files. 
+
+The ```docker build . -t <ctf-name> ``` command should work from this directory. 

@@ -1,0 +1,457 @@
+* daemon not running; starting now at tcp:5037
+2020/11/04 17:41:00 socat[19] E connect(5, AF=2 127.0.0.1:5557, 16): Connection refused
+2020/11/04 17:41:02 socat[23] E connect(5, AF=2 127.0.0.1:5557, 16): Connection refused
+* daemon started successfully
+emulator: Android emulator version 30.1.5.0 (build_id 6855416) (CL:N/A)
+emulator: Found AVD name 'android_x86'
+emulator: Found AVD target architecture: x86
+emulator: Deleting file /root/.android/avd/android_x86.avd/system.img.qcow2 failed
+emulator: Deleting file /root/.android/avd/android_x86.avd/vendor.img.qcow2 failed
+emulator: Deleting file /root/.android/avd/android_x86.avd/userdata-qemu.img failed
+emulator: Deleting file /root/.android/avd/android_x86.avd/userdata-qemu.img.qcow2 failed
+emulator: Deleting file /root/.android/avd/android_x86.avd/userdata.img done
+emulator: Deleting file /root/.android/avd/android_x86.avd/userdata.img.qcow2 failed
+emulator: Deleting file /root/.android/avd/android_x86.avd/cache.img failed
+emulator: Deleting file /root/.android/avd/android_x86.avd/cache.img.qcow2 failed
+emulator: Deleting file /root/.android/avd/android_x86.avd/version_num.cache failed
+emulator: Deleting file /root/.android/avd/android_x86.avd/sdcard.img.qcow2 failed
+emulator: Deleting file /root/.android/avd/android_x86.avd/encryptionkey.img failed
+emulator: Deleting file /root/.android/avd/android_x86.avd/encryptionkey.img.qcow2 failed
+emulator: Deleting file /root/.android/avd/android_x86.avd/hardware-qemu.ini failed
+emulator: Deleting file /root/.android/avd/android_x86.avd/emulator-user.ini failed
+emulator: Deleting file /root/.android/avd/android_x86.avd/default.dtb failed
+emulator: Failed to remove snapshot directory '/root/.android/avd/android_x86.avd/snapshots'
+emulator: Failed to remove ADB command directory '/root/.android/avd/android_x86.avd/tmpAdbCmds'
+emulator: argv[0]: 'emulator'; program directory: '/opt/android/emulator'
+emulator:  Found directory: /opt/android/system-images/android-30/google_apis/x86/
+
+emulator: emuDirName: '/opt/android/emulator'
+emulator:  Found directory: /opt/android/system-images/android-30/google_apis/x86/
+
+emulator: Probing for /opt/android/system-images/android-30/google_apis/x86//kernel-ranchu-64: file exists
+emulator: try dir /opt/android/emulator
+emulator: Trying emulator path '/opt/android/emulator/qemu/linux-x86_64/qemu-system-x86_64-headless'
+emulator: Found target-specific 64-bit emulator binary: /opt/android/emulator/qemu/linux-x86_64/qemu-system-x86_64-headless
+emulator: Adding library search path: '/opt/android/emulator/lib64'
+emulator: Adding library search path: '/opt/android/emulator/lib64/gles_angle'
+emulator: Adding library search path: '/opt/android/emulator/lib64/gles_angle9'
+emulator: Adding library search path: '/opt/android/emulator/lib64/gles_angle11'
+emulator: Adding library search path: '/opt/android/emulator/lib64/gles_swiftshader'
+emulator: Adding library search path: '/opt/android/emulator/lib64/libstdc++'
+emulator: Running :/opt/android/emulator/qemu/linux-x86_64/qemu-system-x86_64-headless
+emulator: qemu backend: argv[00] = "/opt/android/emulator/qemu/linux-x86_64/qemu-system-x86_64-headless"
+emulator: qemu backend: argv[01] = "-avd"
+emulator: qemu backend: argv[02] = "android_x86"
+emulator: qemu backend: argv[03] = "-verbose"
+emulator: qemu backend: argv[04] = "-no-boot-anim"
+emulator: qemu backend: argv[05] = "-wipe-data"
+emulator: qemu backend: argv[06] = "-no-snapshot"
+emulator: qemu backend: argv[07] = "-no-window"
+emulator: qemu backend: argv[08] = "-gpu"
+emulator: qemu backend: argv[09] = "off"
+emulator: qemu backend: argv[10] = "-ports"
+emulator: qemu backend: argv[11] = "5556,5557"
+emulator: Concatenated backend parameters:
+ /opt/android/emulator/qemu/linux-x86_64/qemu-system-x86_64-headless -avd android_x86 -verbose -no-boot-anim -wipe-data -no-snapshot -no-window -gpu off -ports 5556,5557
+emulator: autoconfig: -skin 1080x1920
+emulator: autoconfig: -skindir (null)
+emulator: autoconfig: -kernel /opt/android/system-images/android-30/google_apis/x86//kernel-ranchu-64
+emulator: Target arch = 'x86'
+emulator: Auto-config: -qemu -cpu qemu32
+emulator: Auto-detect: Kernel image requires new device naming scheme.
+emulator: Auto-detect: Kernel does not support YAFFS2 partitions.
+emulator: autoconfig: -ramdisk /opt/android/system-images/android-30/google_apis/x86//ramdisk.img
+emulator: Using initial system image: /opt/android/system-images/android-30/google_apis/x86//system.img
+emulator: Using initial vendor image: /opt/android/system-images/android-30/google_apis/x86//vendor.img
+emulator: autoconfig: -initdata /opt/android/system-images/android-30/google_apis/x86//userdata.img
+emulator: autoconfig: -cache /root/.android/avd/android_x86.avd/cache.img
+emulator: Increasing RAM size to 2048MB
+emulator: VM heap size 0MB is below hardware specified minimum of 512MB,setting it to that value
+emulator: System image is read only
+emulator: Found 1 DNS servers: 192.168.133.2
+emulator: VERBOSE: FeatureControlImpl.cpp:172: WARNING: unexpected system image feature string, emulator might not function correctly, please try updating the emulator.
+
+emulator: VERBOSE: FeatureControlImpl.cpp:175: Unexpected feature list:
+
+emulator: VERBOSE: FeatureControlImpl.cpp:177: Vulkan
+emulator: VERBOSE: FeatureControlImpl.cpp:179: 
+
+emulator: found magic skin width=1080 height=1920 bpp=16
+
+emulator: VERBOSE: System.cpp:2443: statvfs('/root/.android/avd/android_x86.avd/snapshots/default_boot/ram.img') failed: No such file or directory
+
+emulator: registered 'boot-properties' qemud service
+emulator: Adding boot property: 'qemu.cmdline' = 'androidboot.logcat=v:* androidboot.consolepipe=qemu_pipe,pipe:logcat'
+emulator: Adding boot property: 'qemu.logcat' = 'start'
+emulator: Creating ext4 userdata partition: /root/.android/avd/android_x86.avd/data
+Creating filesystem with parameters:
+    Size: 6442450944
+    Block size: 4096
+    Blocks per group: 32768
+    Inodes per group: 8192
+    Inode size: 256
+    Journal blocks: 24576
+    Label: 
+    Blocks: 1572864
+    Block groups: 48
+    Reserved block group size: 383
+2020/11/04 17:41:03 socat[40] E connect(5, AF=2 127.0.0.1:5557, 16): Connection refused
+Created filesystem with 25/393216 inodes and 52346/1572864 blocks
+emulator: Creating empty ext4 cache partition: /root/.android/avd/android_x86.avd/cache.img
+Creating filesystem with parameters:
+    Size: 69206016
+    Block size: 4096
+    Blocks per group: 32768
+    Inodes per group: 4224
+    Inode size: 256
+    Journal blocks: 1024
+    Label: 
+    Blocks: 16896
+    Block groups: 1
+    Reserved block group size: 7
+Created filesystem with 11/4224 inodes and 1302/16896 blocks
+emulator: CPU Acceleration: working
+emulator: CPU Acceleration status: KVM (version 12) is installed and usable.
+emulator: VERBOSE: AdbInterface.cpp:385: Found: 3 adb executables
+emulator: VERBOSE: AdbInterface.cpp:387: Adb: /opt/android/platform-tools/adb
+emulator: VERBOSE: AdbInterface.cpp:387: Adb: /opt/android/platform-tools/adb
+emulator: VERBOSE: AdbInterface.cpp:387: Adb: /opt/android/platform-tools/adb
+emulator: VERBOSE: AdbInterface.cpp:408: Path:/opt/android/platform-tools/adb protocol version: 41
+emulator: VERBOSE: AdbInterface.cpp:408: Path:/opt/android/platform-tools/adb protocol version: 41
+emulator: VERBOSE: AdbInterface.cpp:408: Path:/opt/android/platform-tools/adb protocol version: 41
+emulator: WARNING: Your AVD has been configured with an in-guest renderer, but the system image does not support guest rendering.Falling back to 'swiftshader_indirect' mode.
+emulator: GPU emulation enabled using 'swiftshader_indirect' mode
+emulator: Initializing hardware OpenGLES emulation support
+emulator: VERBOSE: MultiDisplay.cpp:307: create display 0
+emulator: VERBOSE: MultiDisplay.cpp:396: setDisplayPose 0 x 0 y 0 w 1080 h 1920 dpi 0
+2020/11/04 17:41:04 socat[58] E connect(5, AF=2 127.0.0.1:5557, 16): Connection refused
+emulator: Found 1 DNS servers: 192.168.133.2
+Content of hardware configuration file:
+  hw.cpu.arch = x86
+  hw.cpu.model = qemu32
+  hw.cpu.ncore = 2
+  hw.ramSize = 2048
+  hw.screen = multi-touch
+  hw.mainKeys = false
+  hw.trackBall = false
+  hw.keyboard = false
+  hw.keyboard.lid = false
+  hw.keyboard.charmap = qwerty2
+  hw.dPad = false
+  hw.rotaryInput = false
+  hw.gsmModem = true
+  hw.gps = true
+  hw.battery = true
+  hw.accelerometer = true
+  hw.gyroscope = true
+  hw.audioInput = true
+  hw.audioOutput = true
+  hw.sdCard = true
+  disk.cachePartition = true
+  disk.cachePartition.path = /root/.android/avd/android_x86.avd/cache.img
+  disk.cachePartition.size = 66m
+  test.quitAfterBootTimeOut = -1
+  test.delayAdbTillBootComplete = 0
+  test.monitorAdb = 0
+  hw.lcd.width = 1080
+  hw.lcd.height = 1920
+  hw.lcd.depth = 16
+  hw.lcd.density = 480
+  hw.lcd.backlight = true
+  hw.lcd.vsync = 60
+  hw.gltransport = pipe
+  hw.gltransport.asg.writeBufferSize = 1048576
+  hw.gltransport.asg.writeStepSize = 4096
+  hw.gltransport.asg.dataRingSize = 32768
+  hw.gltransport.drawFlushInterval = 800
+  hw.displayRegion.0.1.xOffset = -1
+  hw.displayRegion.0.1.yOffset = -1
+  hw.displayRegion.0.1.width = 0
+  hw.displayRegion.0.1.height = 0
+  hw.displayRegion.0.2.xOffset = -1
+  hw.displayRegion.0.2.yOffset = -1
+  hw.displayRegion.0.2.width = 0
+  hw.displayRegion.0.2.height = 0
+  hw.displayRegion.0.3.xOffset = -1
+  hw.displayRegion.0.3.yOffset = -1
+  hw.displayRegion.0.3.width = 0
+  hw.displayRegion.0.3.height = 0
+  hw.display1.width = 0
+  hw.display1.height = 0
+  hw.display1.density = 0
+  hw.display1.xOffset = -1
+  hw.display1.yOffset = -1
+  hw.display1.flag = 0
+  hw.display2.width = 0
+  hw.display2.height = 0
+  hw.display2.density = 0
+  hw.display2.xOffset = -1
+  hw.display2.yOffset = -1
+  hw.display2.flag = 0
+  hw.display3.width = 0
+  hw.display3.height = 0
+  hw.display3.density = 0
+  hw.display3.xOffset = -1
+  hw.display3.yOffset = -1
+  hw.display3.flag = 0
+  hw.gpu.enabled = true
+  hw.gpu.mode = swiftshader_indirect
+  hw.initialOrientation = portrait
+  hw.camera.back = emulated
+  hw.camera.front = none
+  vm.heapSize = 512
+  hw.sensors.light = true
+  hw.sensors.pressure = true
+  hw.sensors.humidity = true
+  hw.sensors.proximity = true
+  hw.sensors.magnetic_field = true
+  hw.sensors.magnetic_field_uncalibrated = true
+  hw.sensors.gyroscope_uncalibrated = true
+  hw.sensors.orientation = true
+  hw.sensors.temperature = true
+  hw.sensor.hinge = true
+  hw.sensor.hinge.count = 0
+  hw.sensor.hinge.type = 0
+  hw.sensor.hinge.sub_type = 0
+  hw.sensor.hinge.fold_to_displayRegion.0.1_at_posture = 1
+  hw.sensor.roll = false
+  hw.sensor.roll.count = 0
+  hw.sensor.roll.resize_to_displayRegion.0.1_at_posture = 6
+  hw.sensor.roll.resize_to_displayRegion.0.2_at_posture = 6
+  hw.sensor.roll.resize_to_displayRegion.0.3_at_posture = 6
+  hw.useext4 = true
+  hw.arc = false
+  hw.arc.autologin = false
+  kernel.path = /opt/android/system-images/android-30/google_apis/x86//kernel-ranchu-64
+  kernel.newDeviceNaming = yes
+  kernel.supportsYaffs2 = no
+  disk.ramdisk.path = /opt/android/system-images/android-30/google_apis/x86//ramdisk.img
+  disk.systemPartition.initPath = /opt/android/system-images/android-30/google_apis/x86//system.img
+  disk.systemPartition.size = 3083m
+  disk.vendorPartition.initPath = /opt/android/system-images/android-30/google_apis/x86//vendor.img
+  disk.vendorPartition.size = 800m
+  disk.dataPartition.path = /root/.android/avd/android_x86.avd/userdata-qemu.img
+  disk.dataPartition.initPath = /opt/android/system-images/android-30/google_apis/x86//userdata.img
+  disk.dataPartition.size = 6g
+  disk.encryptionKeyPartition.path = /root/.android/avd/android_x86.avd/encryptionkey.img
+  PlayStore.enabled = false
+  avd.name = android_x86
+  avd.id = android_x86
+  fastboot.forceColdBoot = false
+  android.sdk.root = /opt/android
+  android.avd.home = /root/.android/avd
+.
+QEMU options list:
+emulator: argv[00] = "/opt/android/emulator/qemu/linux-x86_64/qemu-system-x86_64-headless"
+emulator: argv[01] = "-dns-server"
+emulator: argv[02] = "192.168.133.2"
+emulator: argv[03] = "-mem-path"
+emulator: argv[04] = "/root/.android/avd/android_x86.avd/snapshots/default_boot/ram.img"
+emulator: argv[05] = "-serial"
+emulator: argv[06] = "null"
+emulator: argv[07] = "-android-ports"
+emulator: argv[08] = "5556,5557"
+emulator: argv[09] = "-device"
+emulator: argv[10] = "goldfish_pstore,addr=0xff018000,size=0x10000,file=/root/.android/avd/android_x86.avd/data/misc/pstore/pstore.bin"
+emulator: argv[11] = "-cpu"
+emulator: argv[12] = "android64"
+emulator: argv[13] = "-enable-kvm"
+emulator: argv[14] = "-smp"
+emulator: argv[15] = "cores=2"
+emulator: argv[16] = "-m"
+emulator: argv[17] = "2048"
+emulator: argv[18] = "-lcd-density"
+emulator: argv[19] = "480"
+emulator: argv[20] = "-object"
+emulator: argv[21] = "iothread,id=disk-iothread"
+emulator: argv[22] = "-nodefaults"
+emulator: argv[23] = "-kernel"
+emulator: argv[24] = "/opt/android/system-images/android-30/google_apis/x86//kernel-ranchu-64"
+emulator: argv[25] = "-initrd"
+emulator: argv[26] = "/opt/android/system-images/android-30/google_apis/x86//ramdisk.img"
+emulator: argv[27] = "-drive"
+emulator: argv[28] = "if=none,index=0,id=system,if=none,file=/opt/android/system-images/android-30/google_apis/x86//system.img,read-only"
+emulator: argv[29] = "-device"
+emulator: argv[30] = "virtio-blk-pci,drive=system,iothread=disk-iothread,modern-pio-notify"
+emulator: argv[31] = "-drive"
+emulator: argv[32] = "if=none,index=1,id=cache,if=none,file=/root/.android/avd/android_x86.avd/cache.img.qcow2,overlap-check=none,cache=unsafe,l2-cache-size=1048576"
+emulator: argv[33] = "-device"
+emulator: argv[34] = "virtio-blk-pci,drive=cache,iothread=disk-iothread,modern-pio-notify"
+emulator: argv[35] = "-drive"
+emulator: argv[36] = "if=none,index=2,id=userdata,if=none,file=/root/.android/avd/android_x86.avd/userdata-qemu.img.qcow2,overlap-check=none,cache=unsafe,l2-cache-size=1048576"
+emulator: argv[37] = "-device"
+emulator: argv[38] = "virtio-blk-pci,drive=userdata,iothread=disk-iothread,modern-pio-notify"
+emulator: argv[39] = "-drive"
+emulator: argv[40] = "if=none,index=3,id=encrypt,if=none,file=/root/.android/avd/android_x86.avd/encryptionkey.img.qcow2,overlap-check=none,cache=unsafe,l2-cache-size=1048576"
+emulator: argv[41] = "-device"
+emulator: argv[42] = "virtio-blk-pci,drive=encrypt,iothread=disk-iothread,modern-pio-notify"
+emulator: argv[43] = "-drive"
+emulator: argv[44] = "if=none,index=4,id=vendor,if=none,file=/opt/android/system-images/android-30/google_apis/x86//vendor.img,read-only"
+emulator: argv[45] = "-device"
+emulator: argv[46] = "virtio-blk-pci,drive=vendor,iothread=disk-iothread,modern-pio-notify"
+emulator: argv[47] = "-netdev"
+emulator: argv[48] = "user,id=mynet"
+emulator: argv[49] = "-device"
+emulator: argv[50] = "virtio-net-pci,netdev=mynet"
+emulator: argv[51] = "-device"
+emulator: argv[52] = "virtio-rng-pci"
+emulator: argv[53] = "-show-cursor"
+emulator: argv[54] = "-device"
+emulator: argv[55] = "virtio_input_multi_touch_pci_1"
+emulator: argv[56] = "-device"
+emulator: argv[57] = "virtio_input_multi_touch_pci_2"
+emulator: argv[58] = "-device"
+emulator: argv[59] = "virtio_input_multi_touch_pci_3"
+emulator: argv[60] = "-device"
+emulator: argv[61] = "virtio_input_multi_touch_pci_4"
+emulator: argv[62] = "-device"
+emulator: argv[63] = "virtio_input_multi_touch_pci_5"
+emulator: argv[64] = "-device"
+emulator: argv[65] = "virtio_input_multi_touch_pci_6"
+emulator: argv[66] = "-device"
+emulator: argv[67] = "virtio_input_multi_touch_pci_7"
+emulator: argv[68] = "-device"
+emulator: argv[69] = "virtio_input_multi_touch_pci_8"
+emulator: argv[70] = "-device"
+emulator: argv[71] = "virtio_input_multi_touch_pci_9"
+emulator: argv[72] = "-device"
+emulator: argv[73] = "virtio_input_multi_touch_pci_10"
+emulator: argv[74] = "-device"
+emulator: argv[75] = "virtio_input_multi_touch_pci_11"
+emulator: argv[76] = "-L"
+emulator: argv[77] = "/opt/android/emulator/lib/pc-bios"
+emulator: argv[78] = "-soundhw"
+emulator: argv[79] = "hda"
+emulator: argv[80] = "-vga"
+emulator: argv[81] = "none"
+emulator: argv[82] = "-append"
+emulator: argv[83] = "qemu=1 no_timer_check androidboot.hardware=ranchu androidboot.serialno=EMULATOR30X1X5X0 clocksource=pit android.qemud=1 console=0 android.checkjni=1 android.bootanim=0 qemu.gles=1 qemu.settings.system.screen_off_timeout=2147483647 qemu.encrypt=1 qemu.vsync=60 qemu.gltransport=pipe qemu.gltransport.drawFlushInterval=800 qemu.opengles.version=131072 cma=288M@0-4G qemu.wifi=1 mac80211_hwsim.channels=2 loop.max_part=7 androidboot.vbmeta.size=6144 androidboot.vbmeta.hash_alg=sha256 androidboot.vbmeta.digest=41e0952e52a1df2eb16607419694ec2a0ecf7eb9cdc3698594df3668cebf05b9 androidboot.boot_devices=pci0000:00/0000:00:03.0 qemu.hwcodec.avcdec=2 qemu.hwcodec.vpxdec=2 ramoops.mem_address=0xff018000 ramoops.mem_size=0x10000 memmap=0x10000$0xff018000 qemu.dalvik.vm.heapsize=512m qemu.camera_protocol_ver=1"
+emulator: argv[84] = "-android-hw"
+emulator: argv[85] = "/root/.android/avd/android_x86.avd/hardware-qemu.ini"
+Concatenated QEMU options:
+ /opt/android/emulator/qemu/linux-x86_64/qemu-system-x86_64-headless -dns-server 192.168.133.2 -mem-path /root/.android/avd/android_x86.avd/snapshots/default_boot/ram.img -serial null -android-ports 5556,5557 -device goldfish_pstore,addr=0xff018000,size=0x10000,file=/root/.android/avd/android_x86.avd/data/misc/pstore/pstore.bin -cpu android64 -enable-kvm -smp cores=2 -m 2048 -lcd-density 480 -object iothread,id=disk-iothread -nodefaults -kernel /opt/android/system-images/android-30/google_apis/x86//kernel-ranchu-64 -initrd /opt/android/system-images/android-30/google_apis/x86//ramdisk.img -drive if=none,index=0,id=system,if=none,file=/opt/android/system-images/android-30/google_apis/x86//system.img,read-only -device virtio-blk-pci,drive=system,iothread=disk-iothread,modern-pio-notify -drive if=none,index=1,id=cache,if=none,file=/root/.android/avd/android_x86.avd/cache.img.qcow2,overlap-check=none,cache=unsafe,l2-cache-size=1048576 -device virtio-blk-pci,drive=cache,iothread=disk-iothread,modern-pio-notify -drive if=none,index=2,id=userdata,if=none,file=/root/.android/avd/android_x86.avd/userdata-qemu.img.qcow2,overlap-check=none,cache=unsafe,l2-cache-size=1048576 -device virtio-blk-pci,drive=userdata,iothread=disk-iothread,modern-pio-notify -drive if=none,index=3,id=encrypt,if=none,file=/root/.android/avd/android_x86.avd/encryptionkey.img.qcow2,overlap-check=none,cache=unsafe,l2-cache-size=1048576 -device virtio-blk-pci,drive=encrypt,iothread=disk-iothread,modern-pio-notify -drive if=none,index=4,id=vendor,if=none,file=/opt/android/system-images/android-30/google_apis/x86//vendor.img,read-only -device virtio-blk-pci,drive=vendor,iothread=disk-iothread,modern-pio-notify -netdev user,id=mynet -device virtio-net-pci,netdev=mynet -device virtio-rng-pci -show-cursor -device virtio_input_multi_touch_pci_1 -device virtio_input_multi_touch_pci_2 -device virtio_input_multi_touch_pci_3 -device virtio_input_multi_touch_pci_4 -device virtio_input_multi_touch_pci_5 -device virtio_input_multi_touch_pci_6 -device virtio_input_multi_touch_pci_7 -device virtio_input_multi_touch_pci_8 -device virtio_input_multi_touch_pci_9 -device virtio_input_multi_touch_pci_10 -device virtio_input_multi_touch_pci_11 -L /opt/android/emulator/lib/pc-bios -soundhw hda -vga none -append 'qemu=1 no_timer_check androidboot.hardware=ranchu androidboot.serialno=EMULATOR30X1X5X0 clocksource=pit android.qemud=1 console=0 android.checkjni=1 android.bootanim=0 qemu.gles=1 qemu.settings.system.screen_off_timeout=2147483647 qemu.encrypt=1 qemu.vsync=60 qemu.gltransport=pipe qemu.gltransport.drawFlushInterval=800 qemu.opengles.version=131072 cma=288M@0-4G qemu.wifi=1 mac80211_hwsim.channels=2 loop.max_part=7 androidboot.vbmeta.size=6144 androidboot.vbmeta.hash_alg=sha256 androidboot.vbmeta.digest=41e0952e52a1df2eb16607419694ec2a0ecf7eb9cdc3698594df3668cebf05b9 androidboot.boot_devices=pci0000:00/0000:00:03.0 qemu.hwcodec.avcdec=2 qemu.hwcodec.vpxdec=2 ramoops.mem_address=0xff018000 ramoops.mem_size=0x10000 memmap=0x10000$0xff018000 qemu.dalvik.vm.heapsize=512m qemu.camera_protocol_ver=1' -android-hw /root/.android/avd/android_x86.avd/hardware-qemu.ini
+emulator: Android qemu version 30.1.5.0 (build_id 6855416) (CL:N/A)
+
+emulator: Starting QEMU main loop
+emulator: Adding boot property: 'ro.opengles.version' = '131072'
+emulator: Adding boot property: 'qemu.sf.fake_camera' = 'back'
+emulator: Adding boot property: 'qemu.adb.secure' = '1'
+emulator: Adding boot property: 'dalvik.vm.heapsize' = '512m'
+emulator: Adding boot property: 'qemu.hw.mainkeys' = '0'
+emulator: Adding boot property: 'qemu.sf.lcd_density' = '480'
+emulator: goldfish_events.have-dpad: false
+emulator: goldfish_events.have-trackball: false
+emulator: goldfish_events.have-camera: true
+emulator: goldfish_events.have-keyboard: false
+emulator: goldfish_events.have-lidswitch: false
+emulator: goldfish_events.have-tabletmode: false
+emulator: goldfish_events.have-touch: false
+emulator: goldfish_events.have-multitouch: false
+emulator: Adding boot property: 'net.wifi_mac_prefix' = '5556'
+pulseaudio: Failed to initialize PA contextaudio: Could not init `pa' audio driver
+Not using any http proxy
+### WARNING: could not find /usr/share/zoneinfo/ directory. unable to determine host timezone
+emulator: Adding boot property: 'qemu.timezone' = 'Unknown/Unknown'
+emulator: android_hw_fingerprint_init: fingerprint qemud listen service initialized
+
+emulator: emulator_window_fb_rotate
+
+emulator: VERBOSE: MultiDisplay.cpp:677: config multidisplay with config.ini 0x0 0x0 0x0
+emulator: No acpi ini file provided, using default
+
+emulator: Cold boot: requested by the user
+emulator: No acpi ini file provided, using default
+
+Your emulator is out of date, please update by launching Android Studio:
+ - Start Android Studio
+ - Select menu "Tools > Android > SDK Manager"
+ - Click "SDK Tools" tab
+ - Check "Android Emulator" checkbox
+ - Click "OK"
+
+emulator: _hwFingerprint_connect: connect finger print listen is called
+
+emulator: got message from guest system fingerprint HAL
+
+emulator: onGuestSendCommand: [0x4a235f0] Adb connected, start proxing data
+emulator: onGuestSendCommand: [0x4a23520] Adb connected, start proxing data
+Boot Status: 
+Boot Status: 
+### WARNING: could not find /usr/share/zoneinfo/ directory. unable to determine host timezone
+Boot Status: 
+Boot Status: 
+Boot Status: 
+Boot Status: 
+Boot Status: 
+Boot Status: 
+Boot Status: 
+Boot Status: 
+Boot Status: 
+Boot Status: 
+Boot Status: 
+Boot Status: 
+Boot Status: 
+Boot Status: 
+Boot Status: 
+Boot Status: 
+Boot Status: 
+Boot Status: 
+Boot Status: 
+Boot Status: 
+Boot Status: 
+Boot Status: 
+Boot Status: 
+Boot Status: 
+Boot Status: 
+Boot Status: 
+Boot Status: 
+Boot Status: 
+Boot Status: 
+Boot Status: 
+Boot Status: 1
+Broadcasting: Intent { act=com.android.intent.action.SET_LOCALE flg=0x400000 (has extras) }
+emulator: INFO: boot completed
+emulator: INFO: boot time 75169 ms
+emulator: Increasing screen off timeout, logcat buffer size to 2M.
+emulator: Revoking microphone permissions for Google App.
+Broadcast completed: result=0
+[?1h=### WARNING: could not find /usr/share/zoneinfo/ directory. unable to determine host timezone
+[40m[1m[33mwarn[39m[22m[49m: Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager[35]
+      No XML encryptor configured. Key {a64da2ea-e030-4476-a458-bd39c7f5e37b} may be persisted to storage in unencrypted form.
+[40m[32minfo[39m[22m[49m: Microsoft.Hosting.Lifetime[0]
+      Now listening on: http://0.0.0.0:8080
+[40m[32minfo[39m[22m[49m: Microsoft.Hosting.Lifetime[0]
+      Application started. Press Ctrl+C to shut down.
+[40m[32minfo[39m[22m[49m: Microsoft.Hosting.Lifetime[0]
+      Hosting environment: Production
+[40m[32minfo[39m[22m[49m: Microsoft.Hosting.Lifetime[0]
+      Content root path: /app
+[40m[1m[33mwarn[39m[22m[49m: Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware[3]
+      Failed to determine the https port for redirect.
+[41m[30mfail[39m[22m[49m: Microsoft.AspNetCore.Antiforgery.DefaultAntiforgery[7]
+      An exception was thrown while deserializing the token.
+Microsoft.AspNetCore.Antiforgery.AntiforgeryValidationException: The antiforgery token could not be decrypted.
+ ---> System.Security.Cryptography.CryptographicException: The key {dbec018b-1e16-4f1f-9d49-1b5b3e6c9575} was not found in the key ring.
+   at Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingBasedDataProtector.UnprotectCore(Byte[] protectedData, Boolean allowOperationsOnRevokedKeys, UnprotectStatus& status)
+   at Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingBasedDataProtector.DangerousUnprotect(Byte[] protectedData, Boolean ignoreRevocationErrors, Boolean& requiresMigration, Boolean& wasRevoked)
+   at Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingBasedDataProtector.Unprotect(Byte[] protectedData)
+   at Microsoft.AspNetCore.Antiforgery.DefaultAntiforgeryTokenSerializer.Deserialize(String serializedToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.AspNetCore.Antiforgery.DefaultAntiforgeryTokenSerializer.Deserialize(String serializedToken)
+   at Microsoft.AspNetCore.Antiforgery.DefaultAntiforgery.GetCookieTokenDoesNotThrow(HttpContext httpContext)
+restarting adbd as root
+emulator: onGuestClose: [0x4a23450] Adb closed by guest
+emulator: onGuestClose: [0x4a23520] Adb closed by guest
+emulator: onGuestClose: [0x4a235f0] Adb closed by guest
+emulator: onGuestSendCommand: [0x4a23380] Adb connected, start proxing data
+emulator: onGuestSendCommand: [0x2b5bb450] Adb connected, start proxing data
+Performing Streamed Install
+Success
+Starting: Intent { cmp=com.f32.fit32/.HomeActivity }
+UI hierchary dumped to: /sdcard/homescreen_actual.xml
+[100%] /sdcard/homescreen_actual.xml[K/sdcard/homescreen_actual.xml: 1 file pulled, 0 skipped. 1.5 MB/s (8015 bytes in 0.005s)[K
+UI hierchary dumped to: /sdcard/helpscreen_actual.xml
+[100%] /sdcard/helpscreen_actual.xml[K/sdcard/helpscreen_actual.xml: 1 file pulled, 0 skipped. 1.0 MB/s (5397 bytes in 0.005s)[K
+[?1h=emulator: WARNING: Not saving state: RAM not mapped as shared
+[40m[32minfo[39m[22m[49m: Microsoft.Hosting.Lifetime[0]
+      Application is shutting down...

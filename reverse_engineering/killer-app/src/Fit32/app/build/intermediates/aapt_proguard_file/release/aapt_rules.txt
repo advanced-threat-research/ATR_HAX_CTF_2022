@@ -1,0 +1,62 @@
+-keep class com.f32.fit32.ExerciseActivity { <init>(); }
+-keep class com.f32.fit32.ExercisesActivity { <init>(); }
+-keep class com.f32.fit32.HelpActivity { <init>(); }
+-keep class com.f32.fit32.HiitSettingsActivity { <init>(); }
+-keep class com.f32.fit32.HiitTimerActivity { <init>(); }
+-keep class com.f32.fit32.HistActivity { <init>(); }
+-keep class com.f32.fit32.HistoryActivity { <init>(); }
+-keep class com.f32.fit32.HomeActivity { <init>(); }
+-keep class com.f32.fit32.MeasurementActivity { <init>(); }
+-keep class com.f32.fit32.MeasurementsActivity { <init>(); }
+-keep class com.f32.fit32.ProgramsActivity { <init>(); }
+-keep class com.f32.fit32.SettingsActivity { <init>(); }
+-keep class com.f32.fit32.WorkoutActivity { <init>(); }
+-keep class com.f32.fit32.WorkoutsActivity { <init>(); }
+-keep class android.support.design.internal.NavigationMenuItemView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class android.support.design.internal.NavigationMenuView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class android.support.design.widget.AppBarLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class android.support.design.widget.CoordinatorLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class android.support.design.widget.FloatingActionButton { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class android.support.design.widget.Snackbar$SnackbarLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class android.support.v4.widget.NestedScrollView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class android.support.v4.widget.Space { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class android.support.v7.view.menu.ActionMenuItemView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class android.support.v7.view.menu.ExpandedMenuView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class android.support.v7.view.menu.ListMenuItemView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class android.support.v7.widget.ActionBarContainer { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class android.support.v7.widget.ActionBarContextView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class android.support.v7.widget.ActionBarOverlayLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class android.support.v7.widget.ActionMenuView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class android.support.v7.widget.ActivityChooserView$InnerLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class android.support.v7.widget.ButtonBarLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class android.support.v7.widget.ContentFrameLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class android.support.v7.widget.DialogTitle { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class android.support.v7.widget.FitWindowsFrameLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class android.support.v7.widget.FitWindowsLinearLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class android.support.v7.widget.SearchView$SearchAutoComplete { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class android.support.v7.widget.Toolbar { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class android.support.v7.widget.ViewStubCompat { <init>(android.content.Context, android.util.AttributeSet); }
+

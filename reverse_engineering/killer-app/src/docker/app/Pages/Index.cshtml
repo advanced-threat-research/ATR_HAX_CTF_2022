@@ -1,0 +1,102 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home";
+}
+
+<div>
+    <div>
+        <label for="from">From:</label><br>
+        <input type="text" id="from" name="from" class="textfield" value="Catmen <agent009lives@aol.com>" size="50" readonly><br><br>
+        <label for="to">To:</label><br>
+        <input type="text" id="to" name="to" class="textfield" value="Me" size="50" readonly><br><br>
+        <label for="subject">Subject:</label><br>
+        <input type="text" id="subject" name="subject" class="textfield" value="Your mission, should you choose to accept it..." size="50" readonly><br><br>
+        <label for="body">Body:</label><br>
+        <textarea id="body" name="body" class="textfield" rows="10" cols="105" readonly>
+Agent,
+
+As you probably read in your briefing, I've discovered that just about every one of K9's goons has 'Fit32' installed on their phone. Fit32 markets itself as a standard fitness app, but I have my doubts - I know for a fact that some of these mutts don't ever leave their hideout, much less set one paw in a gym. I'd bet an entire baggie of catnip that it's a cover for an information network related to their campaign to assemble the remaining pieces of Anubis - I just need to prove it.
+
+The good news is I've managed to procure a copy of the app. The bad news is I can't seem to get past this damn popup telling me I need a different Android version (likely a red herring). That's where you come in: I need you to download the attached app, modify it to bypass the popup, and send me the modified APK as a reply to this secure email. Accomplish that, and I'm sure we can figure out what the K9's are plotting next.
+
+Love,
+Catmen
+
+P.S. I only need to get past the popup. I'm not trying to meditate on the Theseus' Ship Paradox, so don't overdo it, alright?
+        </textarea><br><br>
+        <a href="@Model.ApkLocation" download>Download Attachment</a><br><br>
+        <label>Attach:</label><br>
+    </div>
+    <form method="post" enctype="multipart/form-data">
+        <input type="file" asp-for="ApkFile" class="btn btn-light" value="Attach File" />
+        &nbsp;&nbsp;
+        <script>
+        function processing() {
+            var resultDiv = document.getElementById("result-div");
+            while (resultDiv.firstChild) {
+                resultDiv.removeChild(resultDiv.lastChild);
+            }
+            var message = document.createElement("H5");
+            message.innerHTML = "Processing... Please do not refresh or navigate away from this page."
+            resultDiv.appendChild(message);
+        }
+        </script>
+        <input type="submit" class="btn btn-primary" value="Reply" onclick="processing();" />
+        <br />
+        <br />
+        <div id="result-div">
+        @if (Model.Error != null) {
+            <h5 class="text-danger">@Model.Error</h5>
+            @if (Model.ScreencapLocation != null && Model.ShowScreencap) {
+                <style>
+                .collapsible {
+                    background-color: #777;
+                    color: white;
+                    cursor: pointer;
+                    padding: 18px;
+                    width: 50%;
+                    border: none;
+                    text-align: center;
+                    outline: none;
+                    font-size: 15px;
+                }
+
+                .active, .collapsible:hover {
+                    background-color: #555;
+                }
+
+                .content {
+                    padding: 0 0;
+                    display: none;
+                    overflow: hidden;
+                    background-color: #f1f1f1;
+                    width: 50%;
+                }
+                </style>
+                <br />
+                <button type="button" class="collapsible">Show Screen Output</button>
+                <img class="content" src="@Model.ScreencapLocation">
+                <script>
+                var coll = document.getElementsByClassName("collapsible");
+                var i;
+
+                for (i = 0; i < coll.length; i++) {
+                    coll[i].addEventListener("click", function() {
+                        this.classList.toggle("active");
+                        var content = this.nextElementSibling;
+                        if (content.style.display === "block") {
+                            content.style.display = "none";
+                        } else {
+                            content.style.display = "block";
+                        }
+                    });
+                }
+                </script>
+            }
+        } else if (Model.ShowFlag) {
+            <h5>Flag: @Model.Flag</h5>
+        }
+        </div>
+    </form>
+</div>

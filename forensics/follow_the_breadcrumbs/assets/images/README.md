@@ -1,0 +1,1 @@
+This directory will be used for all images. Please lable them numerically. E.g. (01.jpg -- 99.jpg)

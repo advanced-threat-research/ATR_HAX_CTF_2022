@@ -1,0 +1,76 @@
+# List of SDK dependencies of this app, this information is also included in an encrypted form in the APK.
+# For more information visit: https://d.android.com/r/tools/dependency-metadata
+
+library {
+  maven_library {
+    groupId: "com.android.support"
+    artifactId: "appcompat-v7"
+    version: "23.1.1"
+  }
+  digests {
+    sha256: "\n\207b!C\202\267\350\324\271\211\264\254\020\265\310F\271W\327g\314\267\274\313\306\276Z\372\210Z\202"
+  }
+}
+library {
+  maven_library {
+    groupId: "com.android.support"
+    artifactId: "support-v4"
+    version: "23.1.1"
+  }
+  digests {
+    sha256: "\\}\316\266\310$\b\237\350\017P.R\006&@H\357\213\377\244\350\335\352\261\200\270\027#\347\233\177"
+  }
+}
+library {
+  maven_library {
+    groupId: "com.android.support"
+    artifactId: "support-annotations"
+    version: "23.1.1"
+  }
+  digests {
+    sha256: "\363G\243[\227H\244\020;9\246qJw\342\020\017H\215b?\326&\216%\234\027{ \016\235\202"
+  }
+}
+library {
+  maven_library {
+    groupId: "com.android.support"
+    artifactId: "design"
+    version: "23.1.1"
+  }
+  digests {
+    sha256: "A\251\315u\312x\362]\365\365s\333|\355\370\273f\276\256\000\3030\2249#\272\237> Qsm"
+  }
+}
+library {
+  maven_library {
+    groupId: "com.android.support"
+    artifactId: "recyclerview-v7"
+    version: "23.1.1"
+  }
+  digests {
+    sha256: "v\0067=\240\223\032\036bX\2035FZ\0169\f\326v\311\201\027\355\253)\"\003\027I_\256\375"
+  }
+}
+library_dependencies {
+  library_dep_index: 1
+}
+library_dependencies {
+  library_index: 1
+  library_dep_index: 2
+}
+library_dependencies {
+  library_index: 3
+  library_dep_index: 0
+  library_dep_index: 4
+  library_dep_index: 1
+}
+library_dependencies {
+  library_index: 4
+  library_dep_index: 2
+  library_dep_index: 1
+}
+module_dependencies {
+  module_name: "base"
+  dependency_index: 0
+  dependency_index: 3
+}

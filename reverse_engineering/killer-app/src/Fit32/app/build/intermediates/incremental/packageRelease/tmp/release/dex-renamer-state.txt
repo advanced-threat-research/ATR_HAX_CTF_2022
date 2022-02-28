@@ -1,0 +1,4 @@
+#Sat Oct 31 09:26:30 CDT 2020
+base.0=D\:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

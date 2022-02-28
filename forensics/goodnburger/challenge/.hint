@@ -1,0 +1,1 @@
+Try simple regex expressions for sentences and loop through them checking each SHA256 output of that sentence against the provided SHA256 value. Remember, the SHA256 value provided is the string representation of bytes. Ensure you are collecting entire sentences and that your are comparing the SHA256 output correctly.

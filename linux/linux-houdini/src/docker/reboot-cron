@@ -1,0 +1,3 @@
+0 0 * * * root /usr/sbin/service ssh stop || /usr/sbin/service apache2 stop >> /var/log/cron.log 2>&1
+# Blank line
+

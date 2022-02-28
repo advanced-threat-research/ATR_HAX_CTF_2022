@@ -1,0 +1,51 @@
+This docker is designed to run in AWS.
+
+MAKE SURE any test docker is turned off. This fails if the docker is duplicated anywhere on the internet.
+
+The challenge is also time sensitive. If the system time gets dysynch the challenge will faile and the docker will need to be restarted after the time synchs again.
+
+HINT:
+Not all tor hidden services are accessed via a browser. How can you test different ports in tor?
+
+
+----AWS Server----
+ubuntu@ec2-18-216-157-165.us-east-2.compute.amazonaws.com
+Ubuntu server 20.04
+install unzip, docker
+
+
+----Transfer file to AWS----
+Use scp
+scp -i aws_ctf_tor_services_server.pem hidden_services.zip ubuntu@ec2-18-216-157-165.us-east-2.compute.amazonaws.com:~/ctf/
+
+SSH command
+ssh -i "aws_ctf_tor_services_server.pem" ubuntu@ec2-18-216-157-165.us-east-2.compute.amazonaws.com
+	The .PEM file is my own. Ask Charles McFarland for an AWS account so you can make your own.
+
+
+----SCRIPT FILES---
+**Notice the start_docker is the to start services if the server is already built**
+
+transfer.sh - Only useful for the developer in transfer files quicker
+launch.sh - Use this to launch the Docker. It adds in extra commends at the end to get the services to work.
+start_docker.sh - Use this command if you've stopped the docker and wish to start it without rebuilding.
+
+---STEP TO BUILD---
+1. Zip hidden_services
+2. Move ZIP to virtual machine (AWS instance)
+3. from virtual machine run launch.sh
+
+
+---Testing---
+Create a new circuit in the tor browser and connect to the onion address. You should get plain text. I recommmend fully restarting the tor browser.
+
+You should also test the 1337 port. You need to solve the challenge to do this so look at the spoilers below.
+
+
+**************************
+******* SPOILERS *********
+**************************
+You need to use tor (such as the tor browser) to access this page for testing. This isn't the final answer.
+h6lblddawb5p7dxqijifj5gmazzml3rkgpfno2pnyfnw6ymg32pbiuad.onion
+
+To interact with the 1337 port you can telnet under tor. The easiest way to do that using ubuntu it to use "torify telnet h6lblddawb5p7dxqijifj5gmazzml3rkgpfno2pnyfnw6ymg32pbiuad.onion 1337". torify comes with the apt intall for tor. torsocks and other methods work too.

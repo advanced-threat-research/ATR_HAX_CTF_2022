@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Documents\\work_files\\Fit32\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-w600dp-v13\\values-w600dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Mark\\.gradle\\caches\\transforms-2\\files-2.1\\081c62b9179ad758353b59f556ae6d5a\\appcompat-v7-23.1.1\\res\\values-w600dp\\values-w600dp.xml",
+                    "from": {
+                        "startLines": "4,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "232,296",
+                        "endColumns": "63,54",
+                        "endOffsets": "291,346"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,119",
+                        "endColumns": "63,54",
+                        "endOffsets": "114,169"
+                    }
+                }
+            ]
+        }
+    ]
+}
